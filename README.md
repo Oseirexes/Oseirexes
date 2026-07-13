@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Osei-Bonsu Rexford
 
-<!--
-**Oseirexes/Oseirexes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ SOC Analyst | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm an aspiring SOC Analyst with hands-on experience using Microsoft Defender XDR, Microsoft Sentinel, KQL, and threat hunting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- DFIR Forge Labs
+- Threat Hunting with Microsoft Defender
+- Building SOC investigation playbooks
+- GitHub cybersecurity portfolio
+
+### 🛠️ Skills
+- Microsoft Defender XDR
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Wireshark
+- Linux
+- Windows Security
+- Threat Hunting
+- Incident Response
+- Digital Forensics
+
+### 📜 Certifications
+- CompTIA A+
+- CompTIA Security+
+
+### 📂 Featured Projects
+- DFIR Forge Investigation Labs
+- Microsoft Defender Threat Hunting Queries
+- KQL Detection Rules
+- Incident Response Reports
+
+### 📫 Connect with Me
+- LinkedIn: (www.linkedin.com/in/rexford-osei-bonsu-5a532b170)
+- Email: oseirexes@gmail.com
