@@ -32,5 +32,6 @@ I'm an aspiring SOC Analyst with hands-on experience using Microsoft Defender XD
 - Incident Response Reports
 
 ### 📫 Connect with Me
-- LinkedIn: (www.linkedin.com/in/rexford-osei-bonsu-5a532b170)
+- LinkedIn: www.linkedin.com/in/rexford-osei-bonsu
+
 - Email: oseirexes@gmail.com
